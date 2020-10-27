@@ -1,0 +1,9 @@
+[submodule "Pillars"]
+	path = Pillars
+	url = https://github.com/RobertBouillon/Pillars.git
+[submodule "FlexTest"]
+	path = FlexTest
+	url = https://github.com/RobertBouillon/FlexTest.git
+[submodule "Supergene"]
+	path = Supergene
+	url = https://github.com/RobertBouillon/Supergene.git
